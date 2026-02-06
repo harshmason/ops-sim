@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Operations Simulation (Layer 1)
 
 ## Overview
