@@ -5,7 +5,7 @@ cat << 'EOF' > README.md
 This project is a **lightweight operations simulation** that models industrial assets (crushers, conveyors, trucks) and their impact on system throughput.  
 Each asset can **fail, undergo repair, and recover**, and overall plant throughput is determined by **bottleneck constraints**.
 
-The goal of this project is to explore **systems reliability, failure modeling, and operational throughput** — concepts commonly encountered in industrial operations and DevOps-adjacent roles.
+The goal of this project is to explore **systems reliability, failure modeling, and operational throughput** concepts commonly encountered in industrial operations and DevOps-adjacent roles.
 
 ## System Model
 The simulation models a simplified material flow pipeline:
